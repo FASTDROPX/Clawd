@@ -1,0 +1,6 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shareInterpolator="true" android:duration="255" android:interpolator="@interpolator/clawd_ease_in">
+    <translate android:fromXDelta="0%" android:toXDelta="-5%"
+        android:fromYDelta="0%" android:toYDelta="-2%"/>
+    <alpha android:fromAlpha="1" android:toAlpha="0"/>
+</set>

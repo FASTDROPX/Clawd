@@ -1,0 +1,20 @@
+<resources>
+    <style name="Theme.Clawd" parent="Theme.Material3Expressive.DayNight.NoActionBar">
+        <item name="colorPrimary">#8A462D</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimaryContainer">#FFDACB</item>
+        <item name="colorOnPrimaryContainer">#361407</item>
+        <item name="colorSecondaryContainer">#F5DED0</item>
+        <item name="colorOnSecondaryContainer">#362820</item>
+        <item name="colorSurface">#FFF8F2</item>
+        <item name="colorOnSurface">#241A15</item>
+        <item name="colorOnSurfaceVariant">#54443B</item>
+        <item name="colorSurfaceContainerLow">#F8EEE7</item>
+        <item name="colorSurfaceContainerHigh">#EFDFD5</item>
+        <item name="colorOutline">#826F65</item>
+        <item name="colorOutlineVariant">#D9C4B8</item>
+        <item name="android:windowBackground">?attr/colorSurface</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>

@@ -1,0 +1,3 @@
+<resources>
+    <string name="clawd_platforms_description">Использует только координаты видимых элементов для опор Clawd. Текст, ввод и снимки экрана не используются.</string>
+</resources>

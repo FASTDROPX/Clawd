@@ -1,0 +1,6 @@
+<resources>
+    <style name="ClawdDialogMotion" parent="@android:style/Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/clawd_dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/clawd_dialog_exit</item>
+    </style>
+</resources>
